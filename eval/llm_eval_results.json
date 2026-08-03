@@ -1,0 +1,306 @@
+{
+  "prompt_a": [
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses Apple's geographic segment structure with accurate details drawn entirely from the provided context snippets, correctly identifying all five segments and their coverage, revenue attribution methodology, and reporting principles."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question and accurately quotes the context stating 'fiscal year ended September 28, 2024,' while also correctly noting the metadata label discrepancy."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question and is accurately grounded in context [5], which explicitly states NVIDIA introduced 'next-generation NVIDIA DRIVE Thor' after DRIVE Orin."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies that no Google/Alphabet context was provided and appropriately declines to answer, which is both relevant to the question and fully faithful to the available context."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question using the correct source context [2] and accurately reproduces all four factors (two positive drivers and two offsetting headwinds) exactly as stated in the MD&A excerpt."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question with the exact constant currency figures from the META 2023 MD&A context ($134.53B total revenue and $131.57B advertising revenue), accurately notes the $374M and $379M differences, and correctly interprets the favorable FX impact with appropriate contrast to 2022."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies that Apple-specific context is insufficient while accurately citing the META excerpt about 'reasonable assurance' to infer the general standard, and faithfully avoids fabricating Apple-specific claims not present in the context."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question by accurately identifying all regulatory frameworks mentioned in the context (GDPR, ePrivacy, DMA, EU consumer laws) and correctly notes the Apple/Google platform changes as additional constraints, all grounded in the provided excerpts."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies derivative instruments from the Microsoft context, appropriately acknowledges the truncation limitation, and avoids fabricating specific instrument types not present in the MSFT excerpts while transparently noting Apple's more specific disclosure for comparison."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly identifies NVIDIA RTX as the technology developed for next-generation graphics and AI in games, accurately citing both ray tracing and DLSS details that are explicitly stated in the provided context chunks."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question with the correct figure ($538 million) sourced accurately from Context [1], and correctly attributes the date and confidence level."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses Apple's risk landscape characterization using only information from the provided Apple SEC filing excerpts, accurately synthesizing regulatory, reputational, operational, and litigation risks without adding unsupported claims."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question by correctly identifying the three platforms (AdMob, AdSense, and Google Ad Manager) from the exact context provided, and even notes the important qualifier 'primarily' from the source text."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question with the correct figure (147,000 full-time equivalent employees as of September 26, 2020) and is fully supported by context chunk [3]."
+    },
+    {
+      "relevance": 3,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly acknowledges the context lacks Meta senior notes data and accurately reports the interest rate sensitivity figures from the provided excerpts, but only partially addresses the question since it cannot answer the principal amount portion."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies that the provided context does not contain information about Microsoft's investment portfolio risks or mitigation strategies, accurately reflecting what is and isn't present in the excerpts while still extracting what limited relevant information exists."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question by identifying the Form 10-K from the context, accurately acknowledges the limitations of the provided excerpts, and makes no claims beyond what the context supports."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly acknowledges that the provided context lacks the specific accounting criteria sought, accurately reflects what the excerpts do contain, and avoids fabricating information not present in the source material."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies the facilities mentioned in the Microsoft context (Experience Centers and certain equipment), accurately notes the lease terms, and appropriately acknowledges the truncated nature of the excerpt without fabricating additional details."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question using only NVIDIA-specific context excerpts [3] and [5], accurately reflects the fragmentary nature of the source material, and does not fabricate procedures beyond what the truncated excerpts support."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question and accurately quotes the classification details from Context [2], correctly identifying both balance sheet locations and the duration-based classification criterion."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies that no Alphabet/Google context was provided and accurately lists what sources are available, appropriately declining to answer while directing to the correct source."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 4,
+      "reasoning": "The answer directly addresses Microsoft's flexible work approach and is well-grounded in the provided context, though it adds specific bullet points (shift paradigms, embrace flexibility, promote inclusion, drive innovation) that are not present in the given context snippets."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 4,
+      "reasoning": "The answer relevantly addresses Google's unconventional philosophy and AI strategy evolution using context, but includes a claim about machine learning being incorporated in 2001 that is not supported by the provided excerpts, slightly reducing faithfulness."
+    },
+    {
+      "relevance": 3,
+      "faithfulness": 5,
+      "reasoning": "The answer is fully faithful to the provided context and correctly identifies its limitations, but the context itself contains very little specific information about Microsoft's cybersecurity approach, resulting in a superficial answer that only marginally addresses the question."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies that the context contains only Apple filings and no NVIDIA data, making it impossible to answer the question, which is both faithful to the provided context and relevant in explaining why the question cannot be answered."
+    },
+    {
+      "relevance": 3,
+      "faithfulness": 5,
+      "reasoning": "The answer is fully faithful to the limited context provided, correctly acknowledging what the excerpts do and don't contain, but it only partially addresses the question due to insufficient context about specific economic risk categories and mitigation strategies."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses Microsoft's descriptions of nation-state actor capabilities using only information from the provided MSFT 2023 and MSFT 2021 context excerpts, accurately quoting and summarizing the persistence and multi-method attack capabilities described."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses whether NVIDIA considers social media content potentially material for investors, correctly citing the Regulation FD references from the provided context and appropriately noting the limitations of the truncated excerpts."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question using Meta-specific context from Context [2], accurately citing the impairment loss recognition mechanism, significant charge requirement, and stock price/market cap consequences without adding unsupported claims."
+    }
+  ],
+  "prompt_b": [
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question by accurately listing all five geographic segments with their compositions and structural principles, all of which are explicitly supported by the provided context excerpts."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question and accurately cites the exact text from the context, correctly identifying the fiscal year ended September 28, 2024, while also noting the metadata label discrepancy."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question and is perfectly grounded in the provided context, quoting the exact passage from NVDA 2022 Risk Factors that mentions DRIVE Thor as the next-generation chip after DRIVE Orin."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies that Google/Alphabet information is absent from the context, accurately summarizes what is available, and does not fabricate any information beyond what the excerpts contain."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question by accurately citing all four factors from the AAPL 2022 MD&A context, correctly distinguishing positive drivers from offsetting headwinds without adding unsupported claims."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question with exact figures from the provided context ($134.53B total revenue and $131.57B advertising revenue) and accurately interprets the FX impact details, including the comparative 2022 context."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 4,
+      "reasoning": "The answer correctly addresses the question by noting that only 'reasonable assurance' (not absolute guarantees) is the standard, drawing appropriately from META 2023 context as a parallel while honestly acknowledging the Apple-specific excerpts lack explicit language on this point."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question by identifying all regulatory frameworks mentioned in the context (GDPR, ePrivacy, DMA, EU consumer laws) with accurate citations and faithful representations of how each impacts Meta's ad targeting capabilities."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies Microsoft's use of derivative instruments from the MSFT context excerpts, appropriately acknowledges the truncated nature of the provided context, and avoids fabricating specific instrument types not present in the Microsoft excerpts while noting the limitation transparently."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly identifies NVIDIA RTX as the technology developed for next-generation graphics and AI in games, accurately citing and quoting the provided context from multiple sources without introducing unsupported claims."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question with the correct figure of $538 million, accurately citing the source context verbatim."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses Apple's risk landscape characterization using only Apple-sourced context (ignoring the irrelevant GOOGL excerpt), accurately quoting and synthesizing the provided excerpts without fabrication."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question by correctly identifying AdMob, AdSense, and Google Ad Manager from the context, and even highlights the important 'primarily' qualifier from the 2023 MD&A that adds nuance to the response."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question with the exact figure (147,000) from context chunk [3], which explicitly states Apple's full-time equivalent employees as of September 26, 2020."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies that the context lacks information about Meta's fixed-rate senior notes principal amounts, accurately reports the interest rate sensitivity figures from the provided excerpts, and clearly explains the limitation without fabricating missing data."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies that the provided context lacks specific information about Microsoft's investment portfolio risks, accurately reflects what the excerpts do contain, and does not fabricate any information beyond what is in the context."
+    },
+    {
+      "relevance": 3,
+      "faithfulness": 5,
+      "reasoning": "The answer is fully grounded in the provided context and accurately reflects what is mentioned (Form 10-K and Exchange Act reports), but the context itself is sparse, limiting the relevance of the answer to the question which asks about 'types' of filings broadly."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies that the provided context lacks the specific accounting criteria for recording legal liabilities, accurately summarizes what is present in the excerpts, and appropriately notes what additional information would be needed\u2014all without fabricating information beyond the context."
+    },
+    {
+      "relevance": 3,
+      "faithfulness": 5,
+      "reasoning": "The answer is fully faithful to the context, accurately citing only what's mentioned in the MSFT 2022 excerpt (Experience Centers and certain equipment), and correctly acknowledges the limited information available, though the partial context means the answer is incomplete in addressing the full scope of the question."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question about NVIDIA's auditor procedures using only information from the NVDA 2022 and NVDA 2023 context fragments, accurately representing the limited but relevant content available while appropriately noting the fragmentary nature of the excerpts."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question and accurately quotes the classification details from the META 2022 Financial Statements context, including both balance sheet locations and the rationale for classification."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies that no Alphabet/Google context was provided and accurately describes what context was available, making it both faithful to the provided documents and relevant by explaining why the question cannot be answered."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 3,
+      "reasoning": "The answer is highly relevant to the question and accurately cites key data points from the context, but fabricates specific objectives ('Shift paradigms,' 'Promote inclusion,' 'Drive innovation') that are not present in the provided context snippets, reducing faithfulness."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 4,
+      "reasoning": "The answer directly addresses Google's mission and AI strategy using relevant context, but includes one claim about '2001 machine learning integration' that is not supported by the provided excerpts."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses Microsoft's cybersecurity approach across cloud environments using only information from the provided context, accurately citing sources and appropriately acknowledging the limitations of the available excerpts."
+    },
+    {
+      "relevance": 4,
+      "faithfulness": 5,
+      "reasoning": "The answer correctly identifies that the context contains no NVIDIA data and accurately summarizes what Apple data is present, demonstrating both relevance to the question's intent and complete faithfulness to the provided context."
+    },
+    {
+      "relevance": 3,
+      "faithfulness": 5,
+      "reasoning": "The answer is faithful to the limited context provided and honestly acknowledges gaps, but only partially addresses the question about economic risk categories and mitigation approaches since the relevant context snippets are incomplete."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses Microsoft's description of nation-state actor capabilities by accurately citing both MSFT 2023 and MSFT 2021 context excerpts, correctly quoting the sustained activities language and the wide variety of methods including malware, vulnerability exploitation, and social engineering."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question using evidence from the provided context, correctly citing NVIDIA's explicit mention of Regulation FD compliance as the basis for concluding that social media content can constitute material investor information."
+    },
+    {
+      "relevance": 5,
+      "faithfulness": 5,
+      "reasoning": "The answer directly addresses the question using the Meta 2023 Risk Factors context, accurately citing the impairment loss calculation, significant charge requirement, and market impact consequences without adding unsupported claims."
+    }
+  ]
+}

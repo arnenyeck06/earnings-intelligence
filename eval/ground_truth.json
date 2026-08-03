@@ -1,0 +1,1829 @@
+[
+  {
+    "question": "What fiscal year does this Apple 10-K filing cover?",
+    "chunk_id": "08ff39f8-362e-43e6-ae9a-5438680b61cf",
+    "ticker": "AAPL",
+    "year": 2020,
+    "section": "Preamble"
+  },
+  {
+    "question": "What is Apple's SEC Central Index Key (CIK) number as indicated in this filing?",
+    "chunk_id": "08ff39f8-362e-43e6-ae9a-5438680b61cf",
+    "ticker": "AAPL",
+    "year": 2020,
+    "section": "Preamble"
+  },
+  {
+    "question": "How does Apple classify its long-term lease assets on the balance sheet according to the XBRL taxonomy references in this document?",
+    "chunk_id": "08ff39f8-362e-43e6-ae9a-5438680b61cf",
+    "ticker": "AAPL",
+    "year": 2020,
+    "section": "Preamble"
+  },
+  {
+    "question": "What is Apple's SEC Central Index Key (CIK) number used for regulatory filings?",
+    "chunk_id": "29e6b0d4-4f99-47f6-9793-cb96de666117",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "What fiscal year does this Apple 10-K filing cover, and when does the reporting period end?",
+    "chunk_id": "29e6b0d4-4f99-47f6-9793-cb96de666117",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "How does Apple classify its marketable securities on the balance sheet, and what distinction is made between different time horizons?",
+    "chunk_id": "29e6b0d4-4f99-47f6-9793-cb96de666117",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "What types of securities does Apple classify under Level 2 fair value measurements in its investment portfolio?",
+    "chunk_id": "58452c90-b414-4e04-81db-a323181ed1d4",
+    "ticker": "AAPL",
+    "year": 2020,
+    "section": "Preamble"
+  },
+  {
+    "question": "How does Apple categorize its money market funds within the fair value hierarchy as of September 26, 2020?",
+    "chunk_id": "58452c90-b414-4e04-81db-a323181ed1d4",
+    "ticker": "AAPL",
+    "year": 2020,
+    "section": "Preamble"
+  },
+  {
+    "question": "What is the overall approach Apple uses to value and classify its various fixed income and cash equivalent holdings across different fair value input levels?",
+    "chunk_id": "58452c90-b414-4e04-81db-a323181ed1d4",
+    "ticker": "AAPL",
+    "year": 2020,
+    "section": "Preamble"
+  },
+  {
+    "question": "How many full-time equivalent workers did Apple employ as of late September 2020?",
+    "chunk_id": "ba3e8c1d-b917-438d-a4cb-cbfb692ad963",
+    "ticker": "AAPL",
+    "year": 2019,
+    "section": "Business"
+  },
+  {
+    "question": "Where can investors access Apple's SEC filings such as 10-K and 10-Q reports at no cost?",
+    "chunk_id": "ba3e8c1d-b917-438d-a4cb-cbfb692ad963",
+    "ticker": "AAPL",
+    "year": 2019,
+    "section": "Business"
+  },
+  {
+    "question": "What types of regulatory filings does Apple submit to the Securities and Exchange Commission?",
+    "chunk_id": "ba3e8c1d-b917-438d-a4cb-cbfb692ad963",
+    "ticker": "AAPL",
+    "year": 2019,
+    "section": "Business"
+  },
+  {
+    "question": "What operating system powers Apple's line of smartphones?",
+    "chunk_id": "6eafc3cb-5fd3-4d94-a7c4-6b5c48fc4ffb",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Business"
+  },
+  {
+    "question": "Which specific models make up Apple's tablet product lineup?",
+    "chunk_id": "6eafc3cb-5fd3-4d94-a7c4-6b5c48fc4ffb",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Business"
+  },
+  {
+    "question": "What are the main product categories and business activities that Apple engages in?",
+    "chunk_id": "6eafc3cb-5fd3-4d94-a7c4-6b5c48fc4ffb",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Business"
+  },
+  {
+    "question": "Are all of Apple's essential components sourced from multiple suppliers, or does the company rely on single or limited sources for certain parts?",
+    "chunk_id": "2b36a4ec-7ae3-4215-a7d6-92b8564896eb",
+    "ticker": "AAPL",
+    "year": 2019,
+    "section": "Business"
+  },
+  {
+    "question": "How does Apple's use of custom components affect its competitive position in the electronics market?",
+    "chunk_id": "2b36a4ec-7ae3-4215-a7d6-92b8564896eb",
+    "ticker": "AAPL",
+    "year": 2019,
+    "section": "Business"
+  },
+  {
+    "question": "What are the primary supply chain risks that Apple faces in its business operations?",
+    "chunk_id": "2b36a4ec-7ae3-4215-a7d6-92b8564896eb",
+    "ticker": "AAPL",
+    "year": 2019,
+    "section": "Business"
+  },
+  {
+    "question": "What regulatory bodies are responsible for examining Apple's tax returns?",
+    "chunk_id": "6830ea22-9d62-482e-b684-2f5c766ab1e8",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How does Apple assess the potential negative outcomes from tax authority investigations?",
+    "chunk_id": "6830ea22-9d62-482e-b684-2f5c766ab1e8",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What are the potential financial consequences if Apple's actual tax liabilities exceed previously accrued amounts?",
+    "chunk_id": "6830ea22-9d62-482e-b684-2f5c766ab1e8",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What types of factors does Apple acknowledge could negatively impact its stock price and financial condition?",
+    "chunk_id": "68d19d11-98e7-4cce-a2f4-b0d1848d2832",
+    "ticker": "AAPL",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "Why does Apple caution investors against using its historical financial performance to predict future results?",
+    "chunk_id": "68d19d11-98e7-4cce-a2f4-b0d1848d2832",
+    "ticker": "AAPL",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How does Apple characterize the overall risk landscape facing its business operations and reputation?",
+    "chunk_id": "68d19d11-98e7-4cce-a2f4-b0d1848d2832",
+    "ticker": "AAPL",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "Which specific countries host Apple's primary outsourcing partners for manufacturing operations?",
+    "chunk_id": "4b0d1092-61d0-4244-bc1f-340863d5aff8",
+    "ticker": "AAPL",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How does Apple's reliance on a limited number of third-party manufacturers in single locations create potential supply chain vulnerabilities?",
+    "chunk_id": "4b0d1092-61d0-4244-bc1f-340863d5aff8",
+    "ticker": "AAPL",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What are the key tradeoffs Apple faces by outsourcing its manufacturing and logistics operations to external partners?",
+    "chunk_id": "4b0d1092-61d0-4244-bc1f-340863d5aff8",
+    "ticker": "AAPL",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What were the primary factors that caused Apple's Other Income and Expense to decline in 2022 compared to 2021?",
+    "chunk_id": "2d8657c8-198f-4146-a7c2-cb6f1a3ac3b5",
+    "ticker": "AAPL",
+    "year": 2021,
+    "section": "MD&A"
+  },
+  {
+    "question": "Why was Apple's effective tax rate lower than the statutory federal income tax rate in 2022?",
+    "chunk_id": "2d8657c8-198f-4146-a7c2-cb6f1a3ac3b5",
+    "ticker": "AAPL",
+    "year": 2021,
+    "section": "MD&A"
+  },
+  {
+    "question": "How did foreign earnings and share-based compensation influence Apple's overall tax position during the reported fiscal years?",
+    "chunk_id": "2d8657c8-198f-4146-a7c2-cb6f1a3ac3b5",
+    "ticker": "AAPL",
+    "year": 2021,
+    "section": "MD&A"
+  },
+  {
+    "question": "What was the total amount Apple spent on buying back its own shares during fiscal year 2023?",
+    "chunk_id": "8d5f74d0-4b4f-49ad-a38a-93cf1fd63929",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "MD&A"
+  },
+  {
+    "question": "By how much did Apple increase its quarterly dividend payment in May 2023, and what was the new per-share amount?",
+    "chunk_id": "8d5f74d0-4b4f-49ad-a38a-93cf1fd63929",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "MD&A"
+  },
+  {
+    "question": "What macroeconomic factors does Apple identify as potential risks to its financial performance?",
+    "chunk_id": "8d5f74d0-4b4f-49ad-a38a-93cf1fd63929",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "MD&A"
+  },
+  {
+    "question": "What were the primary drivers behind the improvement in Apple's Products gross margin percentage in 2023 compared to 2022?",
+    "chunk_id": "a5e8695c-4135-425c-90d6-d655827d63ce",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "MD&A"
+  },
+  {
+    "question": "Why did Apple's Services gross margin percentage decline in 2023 despite an increase in absolute Services gross margin dollars?",
+    "chunk_id": "a5e8695c-4135-425c-90d6-d655827d63ce",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "MD&A"
+  },
+  {
+    "question": "How did foreign currency fluctuations affect Apple's overall gross margin performance in fiscal year 2023?",
+    "chunk_id": "a5e8695c-4135-425c-90d6-d655827d63ce",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "MD&A"
+  },
+  {
+    "question": "What is the maximum one-day loss in fair value that Apple estimates with 95% confidence as of September 28, 2024?",
+    "chunk_id": "d42119bf-216c-4fca-a8b3-02ea56206976",
+    "ticker": "AAPL",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How did Apple's estimated value-at-risk for foreign currency derivatives change between fiscal year 2023 and fiscal year 2024?",
+    "chunk_id": "d42119bf-216c-4fca-a8b3-02ea56206976",
+    "ticker": "AAPL",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How does Apple manage the relationship between its foreign currency hedging instruments and its underlying currency exposures?",
+    "chunk_id": "d42119bf-216c-4fca-a8b3-02ea56206976",
+    "ticker": "AAPL",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How does Apple manage its exposure to fluctuations in foreign exchange rates and interest rates?",
+    "chunk_id": "d87ed787-4119-42ee-8187-de5d71582b94",
+    "ticker": "AAPL",
+    "year": 2020,
+    "section": "Market Risk"
+  },
+  {
+    "question": "Can Apple guarantee that its hedging positions will fully offset losses from currency or interest rate movements?",
+    "chunk_id": "d87ed787-4119-42ee-8187-de5d71582b94",
+    "ticker": "AAPL",
+    "year": 2020,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What is Apple's overall approach to mitigating financial market risks in its global operations?",
+    "chunk_id": "d87ed787-4119-42ee-8187-de5d71582b94",
+    "ticker": "AAPL",
+    "year": 2020,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What types of economic risks is Apple exposed to, and what general strategies does the company employ to manage them?",
+    "chunk_id": "a81e1307-d8a1-4771-b0c1-bc4755fd7e50",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How do rising interest rates specifically affect Apple's investment portfolio and outstanding debt obligations?",
+    "chunk_id": "a81e1307-d8a1-4771-b0c1-bc4755fd7e50",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What financial instruments or approaches does Apple utilize to hedge against interest rate fluctuations in its investment and debt portfolios?",
+    "chunk_id": "a81e1307-d8a1-4771-b0c1-bc4755fd7e50",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What are the three main objectives that Apple's internal control system is designed to achieve regarding financial reporting and asset management?",
+    "chunk_id": "08d707f3-4006-4854-b953-d98f1715fbd7",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "Does Apple's management, including the CEO and CFO, guarantee that internal controls will catch every error or irregularity in the company's financial statements?",
+    "chunk_id": "08d707f3-4006-4854-b953-d98f1715fbd7",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How does Apple's internal control framework ensure compliance with Generally Accepted Accounting Principles in its financial reporting processes?",
+    "chunk_id": "08d707f3-4006-4854-b953-d98f1715fbd7",
+    "ticker": "AAPL",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "Which countries or territories are included in Apple's Greater China segment?",
+    "chunk_id": "7ff9190d-7656-4833-85bc-9f260203d681",
+    "ticker": "AAPL",
+    "year": 2021,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How does Apple justify organizing its business into separate geographic reportable segments?",
+    "chunk_id": "7ff9190d-7656-4833-85bc-9f260203d681",
+    "ticker": "AAPL",
+    "year": 2021,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What is the overall geographic structure of Apple's operating segment reporting framework?",
+    "chunk_id": "7ff9190d-7656-4833-85bc-9f260203d681",
+    "ticker": "AAPL",
+    "year": 2021,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What is the unit of measurement used for share quantities in Apple's consolidated financial statements?",
+    "chunk_id": "5fce1f8d-4168-4143-8cad-f18b0a64bde0",
+    "ticker": "AAPL",
+    "year": 2020,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "Why were certain financial statement schedules excluded from Apple's 10-K filing?",
+    "chunk_id": "5fce1f8d-4168-4143-8cad-f18b0a64bde0",
+    "ticker": "AAPL",
+    "year": 2020,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What types of financial reporting documents are included in Apple's 2021 annual filing with the SEC?",
+    "chunk_id": "5fce1f8d-4168-4143-8cad-f18b0a64bde0",
+    "ticker": "AAPL",
+    "year": 2020,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What is Microsoft's fiscal year end date as reported in their 10-K filing?",
+    "chunk_id": "59a3ec25-b262-4d29-ac30-4dcd5de803e3",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "What accounting standard elements does Microsoft use to classify its derivative instruments on the balance sheet?",
+    "chunk_id": "59a3ec25-b262-4d29-ac30-4dcd5de803e3",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "How does Microsoft categorize its non-current liabilities and assets in accordance with US GAAP reporting standards in its 2023 annual filing?",
+    "chunk_id": "59a3ec25-b262-4d29-ac30-4dcd5de803e3",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "What was the status of Microsoft's allowance for credit losses on accounts receivable as of June 30, 2023?",
+    "chunk_id": "c016e595-34da-4f2e-a3a4-987f46e9cae3",
+    "ticker": "MSFT",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "How did Microsoft classify its asset-backed securities within the fair value measurement hierarchy at the end of fiscal year 2023?",
+    "chunk_id": "c016e595-34da-4f2e-a3a4-987f46e9cae3",
+    "ticker": "MSFT",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "What types of financial instruments and equity components does Microsoft report in its SEC filings, and how are they categorized across different reporting periods?",
+    "chunk_id": "c016e595-34da-4f2e-a3a4-987f46e9cae3",
+    "ticker": "MSFT",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "What sections of the 10-K filing does Microsoft identify as containing descriptions of risks and uncertainties that could cause actual results to differ materially from forward-looking statements?",
+    "chunk_id": "f16f4b8e-ea5f-4a92-90e8-a27dbaee0fdc",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Preamble"
+  },
+  {
+    "question": "Does Microsoft commit to publicly updating its forward-looking statements if new information becomes available or future events occur?",
+    "chunk_id": "f16f4b8e-ea5f-4a92-90e8-a27dbaee0fdc",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Preamble"
+  },
+  {
+    "question": "How does Microsoft's 2021 annual report handle the inherent uncertainty associated with its projections and future-oriented disclosures?",
+    "chunk_id": "f16f4b8e-ea5f-4a92-90e8-a27dbaee0fdc",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Preamble"
+  },
+  {
+    "question": "What role does artificial intelligence play in Microsoft's strategy for improving workplace productivity?",
+    "chunk_id": "adc0e50a-1e3a-4a81-8f16-6801bd960dd7",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "How is Microsoft approaching cybersecurity across different cloud environments and platforms?",
+    "chunk_id": "adc0e50a-1e3a-4a81-8f16-6801bd960dd7",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "What are the key strategic pillars driving Microsoft's long-term growth across its major business segments?",
+    "chunk_id": "adc0e50a-1e3a-4a81-8f16-6801bd960dd7",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "What were the primary drivers behind the increase in Microsoft's Scope 3 emissions in fiscal year 2021?",
+    "chunk_id": "df52dc55-a548-4718-a0e9-ac658140e057",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Business"
+  },
+  {
+    "question": "How did the COVID-19 pandemic specifically impact Microsoft's carbon emissions profile?",
+    "chunk_id": "df52dc55-a548-4718-a0e9-ac658140e057",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Business"
+  },
+  {
+    "question": "What is Microsoft's overall approach to balancing business growth with its environmental sustainability commitments?",
+    "chunk_id": "df52dc55-a548-4718-a0e9-ac658140e057",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Business"
+  },
+  {
+    "question": "What percentage of Microsoft employees expressed satisfaction with their connections to colleagues in the workplace survey?",
+    "chunk_id": "012e2066-d862-4bcd-a486-e74af0b70d8d",
+    "ticker": "MSFT",
+    "year": 2022,
+    "section": "Business"
+  },
+  {
+    "question": "How does Microsoft approach the implementation of flexible work arrangements across its workforce?",
+    "chunk_id": "012e2066-d862-4bcd-a486-e74af0b70d8d",
+    "ticker": "MSFT",
+    "year": 2022,
+    "section": "Business"
+  },
+  {
+    "question": "What types of professional growth and training programs does Microsoft offer to its employees?",
+    "chunk_id": "012e2066-d862-4bcd-a486-e74af0b70d8d",
+    "ticker": "MSFT",
+    "year": 2022,
+    "section": "Business"
+  },
+  {
+    "question": "What methods do malicious actors use to attack Microsoft's products, services, and networks?",
+    "chunk_id": "09de7d9e-15f2-4059-abbd-17dcee7a098c",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How does Microsoft describe the threat posed by nation-state and state-sponsored actors in terms of their capabilities?",
+    "chunk_id": "09de7d9e-15f2-4059-abbd-17dcee7a098c",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What are the key cybersecurity risks that Microsoft has identified as potential threats to its operations and customers?",
+    "chunk_id": "09de7d9e-15f2-4059-abbd-17dcee7a098c",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How might the security breach described in this filing impact Microsoft's relationships with its customers going forward?",
+    "chunk_id": "a7acfeb0-7c96-48ee-8fb4-3727af727e00",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What types of threat actors does Microsoft identify as posing a heightened risk during geopolitical conflicts like the war in Ukraine?",
+    "chunk_id": "a7acfeb0-7c96-48ee-8fb4-3727af727e00",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "In what ways could cyberattacks and security incidents collectively threaten Microsoft's overall financial health and business operations?",
+    "chunk_id": "a7acfeb0-7c96-48ee-8fb4-3727af727e00",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What specific economic conditions does Microsoft identify as potential threats to its IT spending and revenue?",
+    "chunk_id": "d50a051c-638c-43f4-b0c8-eb3a1eef658e",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How does a decline in demand for personal computers and servers impact Microsoft's financial performance?",
+    "chunk_id": "d50a051c-638c-43f4-b0c8-eb3a1eef658e",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What are the broader risks that adverse market conditions pose to Microsoft's business operations and growth strategy?",
+    "chunk_id": "d50a051c-638c-43f4-b0c8-eb3a1eef658e",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What was the percentage change in search and news advertising revenue, and what factors drove this growth?",
+    "chunk_id": "021a4a51-b8c1-4762-927f-6cfe49ee8237",
+    "ticker": "MSFT",
+    "year": 2022,
+    "section": "MD&A"
+  },
+  {
+    "question": "How did the Xandr acquisition impact Microsoft's More Personal Computing segment performance in fiscal year 2022?",
+    "chunk_id": "021a4a51-b8c1-4762-927f-6cfe49ee8237",
+    "ticker": "MSFT",
+    "year": 2022,
+    "section": "MD&A"
+  },
+  {
+    "question": "What were the primary drivers behind the 20% decline in operating income for Microsoft's More Personal Computing segment?",
+    "chunk_id": "021a4a51-b8c1-4762-927f-6cfe49ee8237",
+    "ticker": "MSFT",
+    "year": 2022,
+    "section": "MD&A"
+  },
+  {
+    "question": "What methodology does Microsoft use to determine the fair value of its Level 1 investments?",
+    "chunk_id": "ccd4dd83-4fcc-4132-8cb2-e9590e53c478",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "MD&A"
+  },
+  {
+    "question": "How does Microsoft manage the credit risk and maturity profile of its fixed-income portfolio?",
+    "chunk_id": "ccd4dd83-4fcc-4132-8cb2-e9590e53c478",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "MD&A"
+  },
+  {
+    "question": "What types of risks does Microsoft's investment portfolio face, and how are they mitigated?",
+    "chunk_id": "ccd4dd83-4fcc-4132-8cb2-e9590e53c478",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "MD&A"
+  },
+  {
+    "question": "What types of facilities does Microsoft lease under its operating and finance lease agreements?",
+    "chunk_id": "095a24b8-8f20-4dfd-bbbf-dc345d82c1b7",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "Has Microsoft entered into any related party transactions that could impact its liquidity or capital resources?",
+    "chunk_id": "095a24b8-8f20-4dfd-bbbf-dc345d82c1b7",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "How does Microsoft's investment strategy in AI infrastructure factor into its overall capital allocation and lease obligations?",
+    "chunk_id": "095a24b8-8f20-4dfd-bbbf-dc345d82c1b7",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "Which specific foreign currencies represent the primary exchange rate risks for Microsoft's international operations?",
+    "chunk_id": "444e3105-a840-4f20-bc74-e0e8188e5b4c",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What financial instruments does Microsoft employ to mitigate its exposure to market risks such as interest rate fluctuations and currency movements?",
+    "chunk_id": "444e3105-a840-4f20-bc74-e0e8188e5b4c",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How does Microsoft's overall approach to managing economic risks from multiple market factors, including credit and equity prices, potentially affect its consolidated financial statements?",
+    "chunk_id": "444e3105-a840-4f20-bc74-e0e8188e5b4c",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Market Risk"
+  },
+  {
+    "question": "Which specific foreign currencies represent the primary exchange rate exposure for Microsoft?",
+    "chunk_id": "403f9c9d-af18-4e2e-a615-ff69beee7617",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What financial instruments does Microsoft use to mitigate risks associated with foreign exchange rates and interest rates?",
+    "chunk_id": "403f9c9d-af18-4e2e-a615-ff69beee7617",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What are the main categories of market risk that could affect Microsoft's consolidated financial statements?",
+    "chunk_id": "403f9c9d-af18-4e2e-a615-ff69beee7617",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "Which specific foreign currencies represent Microsoft's principal currency exposures as of 2022?",
+    "chunk_id": "cc29db98-1454-407e-bfbf-2b1c36e67fa9",
+    "ticker": "MSFT",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How does Microsoft manage the interest rate risk associated with its fixed-income securities portfolio?",
+    "chunk_id": "cc29db98-1454-407e-bfbf-2b1c36e67fa9",
+    "ticker": "MSFT",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What are the main categories of economic risk that Microsoft faces, and what is the company's overall approach to mitigating these risks?",
+    "chunk_id": "cc29db98-1454-407e-bfbf-2b1c36e67fa9",
+    "ticker": "MSFT",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "When Microsoft bundles on-premises software licenses with cloud services, how does the company determine whether to recognize the software license revenue separately or together with the cloud service over time?",
+    "chunk_id": "19762244-98b5-4ee1-8ad9-19f065cbf19d",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "Which specific Microsoft cloud service is cited as an example where performance obligation judgment is particularly relevant?",
+    "chunk_id": "19762244-98b5-4ee1-8ad9-19f065cbf19d",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How does Microsoft's revenue recognition process handle contracts that involve the delivery of multiple products and services to a single customer?",
+    "chunk_id": "19762244-98b5-4ee1-8ad9-19f065cbf19d",
+    "ticker": "MSFT",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What framework was used to evaluate Microsoft's internal controls over financial reporting?",
+    "chunk_id": "9a06012a-cc11-4602-833f-898d50e02b65",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "Did the auditors identify any material weaknesses in Microsoft's financial reporting controls as of June 30, 2022?",
+    "chunk_id": "9a06012a-cc11-4602-833f-898d50e02b65",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What type of opinion did the auditors issue on Microsoft's consolidated financial statements for fiscal year 2022?",
+    "chunk_id": "9a06012a-cc11-4602-833f-898d50e02b65",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What was the total amount Microsoft paid in income taxes (net of refunds) during fiscal year 2022?",
+    "chunk_id": "8c1b48fe-ddcc-46f5-a0b2-d4bd5901170a",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How would the recognition of uncertain tax position benefits have impacted Microsoft's effective tax rate in fiscal year 2021?",
+    "chunk_id": "8c1b48fe-ddcc-46f5-a0b2-d4bd5901170a",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How has Microsoft's gross unrecognized tax liability related to uncertain tax positions trended over the three fiscal years ending June 30, 2022?",
+    "chunk_id": "8c1b48fe-ddcc-46f5-a0b2-d4bd5901170a",
+    "ticker": "MSFT",
+    "year": 2021,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "Where can investors find a detailed discussion of the risks and uncertainties that could affect NVIDIA's future performance?",
+    "chunk_id": "af981ab7-c0d1-40f7-9898-4edb5a5f15c5",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "Is NVIDIA obligated to publicly revise or update its forward-looking statements after the filing date?",
+    "chunk_id": "af981ab7-c0d1-40f7-9898-4edb5a5f15c5",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "What overall stance should investors take when relying on the projections and assumptions made by NVIDIA in its 2022 annual report?",
+    "chunk_id": "af981ab7-c0d1-40f7-9898-4edb5a5f15c5",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "Which specific social media platforms does NVIDIA use to communicate material information to investors and fulfill its Regulation FD compliance obligations?",
+    "chunk_id": "ba6e853e-bb35-48aa-b3f1-5f78219d35e4",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Preamble"
+  },
+  {
+    "question": "Does NVIDIA consider the content it shares on platforms like Twitter and Facebook to potentially be material information for investors?",
+    "chunk_id": "ba6e853e-bb35-48aa-b3f1-5f78219d35e4",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Preamble"
+  },
+  {
+    "question": "How does NVIDIA approach its investor relations communications strategy in terms of digital and social media channels?",
+    "chunk_id": "ba6e853e-bb35-48aa-b3f1-5f78219d35e4",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Preamble"
+  },
+  {
+    "question": "What types of equity compensation awards does NVIDIA use to compensate its employees?",
+    "chunk_id": "7cb1b62e-104d-40a6-9427-924453bf6af3",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Preamble"
+  },
+  {
+    "question": "What are the two main business segments that NVIDIA reports on its balance sheet as of January 30, 2022?",
+    "chunk_id": "7cb1b62e-104d-40a6-9427-924453bf6af3",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Preamble"
+  },
+  {
+    "question": "What is NVIDIA's fiscal year end date based on the reporting periods shown in this filing?",
+    "chunk_id": "7cb1b62e-104d-40a6-9427-924453bf6af3",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Preamble"
+  },
+  {
+    "question": "What technology did NVIDIA develop to deliver next-generation graphics and AI capabilities to games?",
+    "chunk_id": "60c6b17b-2685-41d2-a1f7-89d56c3d58e1",
+    "ticker": "NVDA",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "How does ray tracing technology work and what industry has historically used it for special effects?",
+    "chunk_id": "60c6b17b-2685-41d2-a1f7-89d56c3d58e1",
+    "ticker": "NVDA",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "What are the key growth drivers behind NVIDIA's gaming business segment?",
+    "chunk_id": "60c6b17b-2685-41d2-a1f7-89d56c3d58e1",
+    "ticker": "NVDA",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "What program does NVIDIA use to partner with startups and universities to promote AI adoption?",
+    "chunk_id": "08d84a39-28ff-4641-9bcd-4238d90731bc",
+    "ticker": "NVDA",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "How does NVIDIA's Deep Learning Institute support developers working with its accelerated computing platform?",
+    "chunk_id": "08d84a39-28ff-4641-9bcd-4238d90731bc",
+    "ticker": "NVDA",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "What is NVIDIA's strategic vision for the role of AI in the future of computer graphics and computing?",
+    "chunk_id": "08d84a39-28ff-4641-9bcd-4238d90731bc",
+    "ticker": "NVDA",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "What types of companies make up NVIDIA's partner network in its distribution and sales ecosystem?",
+    "chunk_id": "63c6ca4b-24b5-49b2-a843-8be932f22a81",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Business"
+  },
+  {
+    "question": "How does NVIDIA support its partners in the product design and qualification process?",
+    "chunk_id": "63c6ca4b-24b5-49b2-a843-8be932f22a81",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Business"
+  },
+  {
+    "question": "What is NVIDIA's overall strategy for reaching end customers across different industries?",
+    "chunk_id": "63c6ca4b-24b5-49b2-a843-8be932f22a81",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Business"
+  },
+  {
+    "question": "What types of financial costs could NVIDIA face if a product defect is discovered after integration by OEMs and automotive suppliers?",
+    "chunk_id": "51ffb5a9-3466-4e3c-b83f-8b3f6616a7ae",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How might a software driver bug discovered after commercial launch affect NVIDIA's standing with its customer base and future design opportunities?",
+    "chunk_id": "51ffb5a9-3466-4e3c-b83f-8b3f6616a7ae",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What are the broad business risks NVIDIA faces from product quality issues across its hardware and software ecosystem?",
+    "chunk_id": "51ffb5a9-3466-4e3c-b83f-8b3f6616a7ae",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What specific macroeconomic factors does NVIDIA identify as potential threats to its business operations?",
+    "chunk_id": "2a41055b-9fce-4878-8d90-5e7245ec3591",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How might rising interest rates and tighter credit conditions impact NVIDIA's financial performance?",
+    "chunk_id": "2a41055b-9fce-4878-8d90-5e7245ec3591",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What broader economic risks could negatively affect NVIDIA's global business activities?",
+    "chunk_id": "2a41055b-9fce-4878-8d90-5e7245ec3591",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What new autonomous vehicle chip did NVIDIA introduce as the next generation after DRIVE Orin?",
+    "chunk_id": "6600a86c-1407-4e05-ba90-cf7923676d41",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "Which specific financial areas does NVIDIA's management continuously evaluate when making accounting estimates?",
+    "chunk_id": "6600a86c-1407-4e05-ba90-cf7923676d41",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How does NVIDIA's management ensure the accuracy of its financial statements in terms of accounting methodology and ongoing assessment practices?",
+    "chunk_id": "6600a86c-1407-4e05-ba90-cf7923676d41",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What is the primary foreign currency that NVIDIA hedges against in its risk management strategy?",
+    "chunk_id": "d3f37a33-c47c-4fe2-ba04-f4be2d2ca5c5",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How does NVIDIA account for gains and losses on its foreign currency forward contracts in its financial statements?",
+    "chunk_id": "d3f37a33-c47c-4fe2-ba04-f4be2d2ca5c5",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What hedging instruments and strategies does NVIDIA employ to manage its exposure to foreign exchange rate fluctuations affecting operating expenses?",
+    "chunk_id": "d3f37a33-c47c-4fe2-ba04-f4be2d2ca5c5",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How does NVIDIA use foreign currency forward contracts to manage exposure to foreign exchange rate fluctuations on operating expenses?",
+    "chunk_id": "b9a415af-fc43-460f-9261-e5550c570249",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Market Risk"
+  },
+  {
+    "question": "Where are the gains or losses from NVIDIA's cash flow hedge contracts initially recorded before being transferred to the income statement?",
+    "chunk_id": "b9a415af-fc43-460f-9261-e5550c570249",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What is NVIDIA's overall strategy for managing foreign currency risk across its financial operations?",
+    "chunk_id": "b9a415af-fc43-460f-9261-e5550c570249",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What would be the impact on NVIDIA's investment portfolio fair value if interest rates shifted by 50 basis points?",
+    "chunk_id": "dbee1fc8-2bf7-44c4-b22b-d8ad0213f522",
+    "ticker": "NVDA",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How much in senior Notes did NVIDIA have outstanding at the end of fiscal year 2024?",
+    "chunk_id": "dbee1fc8-2bf7-44c4-b22b-d8ad0213f522",
+    "ticker": "NVDA",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How does NVIDIA manage its exposure to interest rate risk across its investment portfolio and debt obligations?",
+    "chunk_id": "dbee1fc8-2bf7-44c4-b22b-d8ad0213f522",
+    "ticker": "NVDA",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What specific procedures did the auditors perform when evaluating NVIDIA's internal control over financial reporting?",
+    "chunk_id": "46005b4e-7f41-4ae8-a856-340ccd4634b0",
+    "ticker": "NVDA",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What standard of assurance does a company's internal control over financial reporting system aim to provide according to the audit documentation?",
+    "chunk_id": "46005b4e-7f41-4ae8-a856-340ccd4634b0",
+    "ticker": "NVDA",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How did the external auditors approach their overall assessment of NVIDIA's financial reporting reliability and control environment in fiscal year 2023?",
+    "chunk_id": "46005b4e-7f41-4ae8-a856-340ccd4634b0",
+    "ticker": "NVDA",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How does NVIDIA account for credit losses on securities it plans to sell before recovering their amortized cost basis?",
+    "chunk_id": "64f7eee5-f197-4ecc-9937-a7221d18e719",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "Where are allowances for credit losses and write-downs reflected in NVIDIA's financial statements?",
+    "chunk_id": "64f7eee5-f197-4ecc-9937-a7221d18e719",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How does NVIDIA determine the fair value of its short-term financial instruments like accounts receivable and accounts payable?",
+    "chunk_id": "64f7eee5-f197-4ecc-9937-a7221d18e719",
+    "ticker": "NVDA",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What was the total amount of unrecognized tax benefits that would impact NVIDIA's effective tax rate if recognized?",
+    "chunk_id": "2215e723-39aa-4a2c-86bd-3685be050759",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How were the $808 million in net unrecognized tax benefits distributed between non-current income taxes payable and deferred tax assets as of January 30, 2022?",
+    "chunk_id": "2215e723-39aa-4a2c-86bd-3685be050759",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What is the significance of the $181 million in state income tax-related unrecognized tax benefits, and why might their recognition not provide a direct financial benefit to NVIDIA?",
+    "chunk_id": "2215e723-39aa-4a2c-86bd-3685be050759",
+    "ticker": "NVDA",
+    "year": 2021,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "Has Google's parent company Alphabet filed an attestation regarding the effectiveness of its internal controls over financial reporting under Sarbanes-Oxley Section 404(b)?",
+    "chunk_id": "140164c8-46b5-4d98-accc-6ee54e5c833e",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "What category of SEC filer is Alphabet classified as \u2014 large accelerated, accelerated, non-accelerated, smaller reporting, or emerging growth company?",
+    "chunk_id": "140164c8-46b5-4d98-accc-6ee54e5c833e",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "What are the key regulatory filing classifications that the SEC requires companies like Alphabet to disclose in their annual 10-K filings?",
+    "chunk_id": "140164c8-46b5-4d98-accc-6ee54e5c833e",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "What types of hedging instruments does Alphabet use to manage foreign exchange risk in its cash flow hedging program?",
+    "chunk_id": "1e39cf67-ca36-44c7-8c13-641d7049ed94",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "In which financial statement line items does Alphabet recognize the effects of its foreign exchange contracts?",
+    "chunk_id": "1e39cf67-ca36-44c7-8c13-641d7049ed94",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "How does Alphabet's use of derivative financial instruments reflect its approach to managing currency exposure across multiple fiscal years?",
+    "chunk_id": "1e39cf67-ca36-44c7-8c13-641d7049ed94",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "What factors does Google anticipate will cause variability in its paid clicks and cost-per-click metrics?",
+    "chunk_id": "aa5986e1-c1e8-4d67-a354-3290ce36549f",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "How does Google expect its foreign exchange risk management program to handle currency fluctuation exposure?",
+    "chunk_id": "aa5986e1-c1e8-4d67-a354-3290ce36549f",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "What role does Google believe international markets, particularly in developing economies, will play in shaping its overall financial results?",
+    "chunk_id": "aa5986e1-c1e8-4d67-a354-3290ce36549f",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "What specific hardware products represent Google's latest generation of consumer devices?",
+    "chunk_id": "b5af8f89-c7ef-4e10-83d2-fa1342e2c817",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "How does Google generate revenue from its technology platforms?",
+    "chunk_id": "b5af8f89-c7ef-4e10-83d2-fa1342e2c817",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "What is Google's overall strategic vision for combining artificial intelligence with its hardware and software offerings?",
+    "chunk_id": "b5af8f89-c7ef-4e10-83d2-fa1342e2c817",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "What AI model did Google launch in December 2023, and what are its key capabilities?",
+    "chunk_id": "bcebb5fe-c11e-4a45-84f2-727cae3fc916",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "How does Alphabet describe its overall approach to developing artificial intelligence technology?",
+    "chunk_id": "bcebb5fe-c11e-4a45-84f2-727cae3fc916",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "What is Google's stated mission and how does it relate to the company's AI development strategy?",
+    "chunk_id": "bcebb5fe-c11e-4a45-84f2-727cae3fc916",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "What percentage of Google's electricity consumption has been matched with renewable energy purchases since 2017?",
+    "chunk_id": "f789e4e9-b77b-4bd3-aa98-f59193008171",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "By what year does Google plan to eliminate carbon emissions across its entire operations and value chain?",
+    "chunk_id": "f789e4e9-b77b-4bd3-aa98-f59193008171",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "What is Google's overall strategy for achieving carbon neutrality, including both emissions reduction and carbon removal?",
+    "chunk_id": "f789e4e9-b77b-4bd3-aa98-f59193008171",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "How does Google manage its exposure to foreign currency exchange rate volatility in its international operations?",
+    "chunk_id": "c9a338aa-c481-4000-b3b9-ece549cf22e4",
+    "ticker": "GOOGL",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What specific financial risks are associated with Google's hedging strategies for currency exposure?",
+    "chunk_id": "c9a338aa-c481-4000-b3b9-ece549cf22e4",
+    "ticker": "GOOGL",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "In what ways could fluctuations in investment valuations impact Alphabet's overall financial performance and reporting?",
+    "chunk_id": "c9a338aa-c481-4000-b3b9-ece549cf22e4",
+    "ticker": "GOOGL",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What financial risks could result from Google's acquisition activities, such as the issuance of new shares or taking on debt?",
+    "chunk_id": "aefc1b6d-0563-4cd6-a531-adfdc2247cdc",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How might Google's divestiture agreements expose the company to future financial harm?",
+    "chunk_id": "aefc1b6d-0563-4cd6-a531-adfdc2247cdc",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What are the potential negative consequences that could impact Google's overall financial health stemming from its mergers, acquisitions, and strategic partnerships?",
+    "chunk_id": "aefc1b6d-0563-4cd6-a531-adfdc2247cdc",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How does Google account for gains and losses on its non-marketable equity securities in its financial statements?",
+    "chunk_id": "112ea34b-93d0-4af8-a80c-cd3992a7b6de",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What financial metric is impacted by the volatility introduced through fair value remeasurements of equity investments?",
+    "chunk_id": "112ea34b-93d0-4af8-a80c-cd3992a7b6de",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What are the key risks that Google's investment portfolio poses to its overall financial health and performance?",
+    "chunk_id": "112ea34b-93d0-4af8-a80c-cd3992a7b6de",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How does Google define cost-per-click in its advertising business?",
+    "chunk_id": "f1d4649c-8eac-401d-a0e6-04dd4d572343",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "Which specific platforms are included in Google Network properties for impression measurement purposes?",
+    "chunk_id": "f1d4649c-8eac-401d-a0e6-04dd4d572343",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "How does Alphabet approach changes to its methodology for tracking advertising engagement metrics over time?",
+    "chunk_id": "f1d4649c-8eac-401d-a0e6-04dd4d572343",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "What was Google's total liquidity position at the end of fiscal year 2023?",
+    "chunk_id": "7add2a9d-5e92-4aec-a1ae-0e414257b874",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "What types of instruments make up Alphabet's cash equivalents and marketable securities portfolio?",
+    "chunk_id": "7add2a9d-5e92-4aec-a1ae-0e414257b874",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "How might new global tax legislation affect Alphabet's financial outlook in the coming years?",
+    "chunk_id": "7add2a9d-5e92-4aec-a1ae-0e414257b874",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "How does Google calculate constant currency revenues when comparing year-over-year performance?",
+    "chunk_id": "2fb4d02a-75c7-44ff-9e67-410d655e0427",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "Are hedging effects included in the constant currency revenue percentage change calculation for either the current or prior year periods?",
+    "chunk_id": "2fb4d02a-75c7-44ff-9e67-410d655e0427",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "How should investors interpret constant currency revenue metrics in relation to Google's overall financial reporting?",
+    "chunk_id": "2fb4d02a-75c7-44ff-9e67-410d655e0427",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "Which specific foreign currencies does Google hedge against to manage its exchange rate exposure?",
+    "chunk_id": "2cc7f4f7-14cc-438b-9603-c837a56a2b09",
+    "ticker": "GOOGL",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How does Alphabet's international business activity create financial risk for the company?",
+    "chunk_id": "2cc7f4f7-14cc-438b-9603-c837a56a2b09",
+    "ticker": "GOOGL",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What are the primary categories of market risk that Alphabet faces as a global technology company?",
+    "chunk_id": "2cc7f4f7-14cc-438b-9603-c837a56a2b09",
+    "ticker": "GOOGL",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How does Google account for gains and losses on marketable debt securities for which the fair value option has not been elected?",
+    "chunk_id": "4e0da52e-9514-41e3-a47b-b6873e28ce34",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What methodology does Alphabet use to assess the potential impact of interest rate changes on its investment portfolio?",
+    "chunk_id": "4e0da52e-9514-41e3-a47b-b6873e28ce34",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How does Alphabet's treasury strategy expose the company to interest rate risk across its fixed and floating rate securities?",
+    "chunk_id": "4e0da52e-9514-41e3-a47b-b6873e28ce34",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "Under what circumstance would Google's equity investments be considered impaired?",
+    "chunk_id": "4e1f4ec1-2517-40e0-8e6a-010e3e34af37",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "Where can investors find more detailed information about Alphabet's equity investment holdings in the 2023 annual report?",
+    "chunk_id": "4e1f4ec1-2517-40e0-8e6a-010e3e34af37",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How does market volatility affect the valuation of Alphabet's investment portfolio?",
+    "chunk_id": "4e1f4ec1-2517-40e0-8e6a-010e3e34af37",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What regulatory body must Google's public accounting firm be registered with to conduct its audit?",
+    "chunk_id": "84bf8f4c-9e26-4bb3-8c73-517e8b7af3e9",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What standard of independence is required for the auditing firm in relation to Google's financial reporting?",
+    "chunk_id": "84bf8f4c-9e26-4bb3-8c73-517e8b7af3e9",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What is the overall framework and responsibility structure governing the audit of Google's internal financial controls?",
+    "chunk_id": "84bf8f4c-9e26-4bb3-8c73-517e8b7af3e9",
+    "ticker": "GOOGL",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "Where can investors find detailed information about Google's executive pay packages for fiscal year 2022?",
+    "chunk_id": "d31ad570-d999-4b79-a936-6febfc2ef992",
+    "ticker": "GOOGL",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "Within what timeframe after the fiscal year ending December 31, 2022 was the proxy statement required to be filed with the SEC?",
+    "chunk_id": "d31ad570-d999-4b79-a936-6febfc2ef992",
+    "ticker": "GOOGL",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How does Alphabet's 10-K filing handle the disclosure of corporate governance and compensation-related information?",
+    "chunk_id": "d31ad570-d999-4b79-a936-6febfc2ef992",
+    "ticker": "GOOGL",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How much of Alphabet's share buyback authorization remained unused at the end of fiscal year 2022?",
+    "chunk_id": "e2a25c57-6f96-4163-8b3e-16188838ed22",
+    "ticker": "GOOGL",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What was the total number of Class C shares that Alphabet repurchased and retired during 2022, and at what cost?",
+    "chunk_id": "e2a25c57-6f96-4163-8b3e-16188838ed22",
+    "ticker": "GOOGL",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "Can you describe the overall scope and execution of Alphabet's share repurchase activity in 2022, including the total authorization amount and how much was utilized?",
+    "chunk_id": "e2a25c57-6f96-4163-8b3e-16188838ed22",
+    "ticker": "GOOGL",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What is Meta's Central Index Key (CIK) number used for SEC filings?",
+    "chunk_id": "322e3216-7a25-4bb1-bed7-bac474da992f",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "Does Meta have multiple classes of common stock, and if so, what are they?",
+    "chunk_id": "322e3216-7a25-4bb1-bed7-bac474da992f",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "What fiscal year does this Meta 10-K filing cover?",
+    "chunk_id": "322e3216-7a25-4bb1-bed7-bac474da992f",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "What section of Meta's 10-K filing contains a detailed discussion of the specific risks facing the company?",
+    "chunk_id": "ca1c0043-f57a-478c-bffa-ea262c3064e6",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "What does Meta acknowledge about management's ability to anticipate all potential threats to its business operations?",
+    "chunk_id": "ca1c0043-f57a-478c-bffa-ea262c3064e6",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "How does Meta characterize the overall environment in which it conducts its business activities?",
+    "chunk_id": "ca1c0043-f57a-478c-bffa-ea262c3064e6",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Preamble"
+  },
+  {
+    "question": "What specific products are included under Meta's 'Family' umbrella of applications?",
+    "chunk_id": "09165a0d-a4c0-4ef8-833a-2cd14ac812b3",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "How does Meta define 'mobile' access when measuring user engagement across its platforms?",
+    "chunk_id": "09165a0d-a4c0-4ef8-833a-2cd14ac812b3",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "What methodology does Meta use to calculate its key user metrics such as DAP and MAP?",
+    "chunk_id": "09165a0d-a4c0-4ef8-833a-2cd14ac812b3",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Preamble"
+  },
+  {
+    "question": "What regulatory risks does Meta face related to the collection and use of data from minors?",
+    "chunk_id": "979dc0db-17f1-432b-b384-0a930358d336",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "How might government investigations across different regions impact Meta's advertising business?",
+    "chunk_id": "979dc0db-17f1-432b-b384-0a930358d336",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "What are the potential consequences Meta could face from privacy-related regulatory actions globally?",
+    "chunk_id": "979dc0db-17f1-432b-b384-0a930358d336",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Business"
+  },
+  {
+    "question": "What specific technologies is Meta investing in to improve its advertising targeting and delivery capabilities?",
+    "chunk_id": "7c4e688e-9ca2-4767-8c18-d21d074d9d1a",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Business"
+  },
+  {
+    "question": "How is Meta addressing platform security and privacy concerns in its technology investments?",
+    "chunk_id": "7c4e688e-9ca2-4767-8c18-d21d074d9d1a",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Business"
+  },
+  {
+    "question": "What are the primary drivers behind Meta's expanding computing infrastructure needs?",
+    "chunk_id": "7c4e688e-9ca2-4767-8c18-d21d074d9d1a",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Business"
+  },
+  {
+    "question": "What was the severance pay structure offered to U.S. employees during Meta's 2022 layoffs in terms of base pay and years of service?",
+    "chunk_id": "0f8438d7-2e06-405d-a996-71cf775283ab",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Business"
+  },
+  {
+    "question": "How long did Meta provide healthcare coverage for laid-off employees and their dependents as part of the severance package?",
+    "chunk_id": "0f8438d7-2e06-405d-a996-71cf775283ab",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Business"
+  },
+  {
+    "question": "What measures did Meta take to manage its cost structure in 2022, and how did the company treat employees who were let go during the restructuring?",
+    "chunk_id": "0f8438d7-2e06-405d-a996-71cf775283ab",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Business"
+  },
+  {
+    "question": "What is the nature of Mark Zuckerberg's employment agreement with Meta, and does it guarantee his tenure for a specific period?",
+    "chunk_id": "fe629707-71ba-4af7-97d7-d332ffb5998a",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How could the departure of critical employees impact Meta's proprietary technology and systems?",
+    "chunk_id": "fe629707-71ba-4af7-97d7-d332ffb5998a",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What are the potential financial statement consequences if Meta determines that its goodwill or intangible assets have been impaired?",
+    "chunk_id": "fe629707-71ba-4af7-97d7-d332ffb5998a",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What event in September 2021 led to significant negative media coverage of Meta?",
+    "chunk_id": "74bc970a-e76a-4be2-bebf-2071db3660e2",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How might reputational damage from misinformation controversies impact Meta's advertising revenue?",
+    "chunk_id": "74bc970a-e76a-4be2-bebf-2071db3660e2",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What types of broader societal issues have exposed Meta to potential negative publicity that could harm its business?",
+    "chunk_id": "74bc970a-e76a-4be2-bebf-2071db3660e2",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What regulatory frameworks could impact Meta's ability to target ads based on user data?",
+    "chunk_id": "1d912668-3387-45b7-9ff4-954752bfee58",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "How might advertiser concerns about harmful third-party content affect Meta's revenue streams?",
+    "chunk_id": "1d912668-3387-45b7-9ff4-954752bfee58",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What are the key risks that could lead to reduced advertising spending on Meta's platforms?",
+    "chunk_id": "1d912668-3387-45b7-9ff4-954752bfee58",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Risk Factors"
+  },
+  {
+    "question": "What was the percentage growth in Facebook's daily active users in December 2023 compared to the prior year, and what was the absolute number of DAUs reached?",
+    "chunk_id": "f4d7089e-604b-4879-bc26-c081cbb1ff8c",
+    "ticker": "META",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "Which three countries contributed most to the increase in daily active users during December 2023?",
+    "chunk_id": "f4d7089e-604b-4879-bc26-c081cbb1ff8c",
+    "ticker": "META",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "How does Meta define a Monthly Active User for Facebook, and what platforms or actions qualify a user to be counted in this metric?",
+    "chunk_id": "f4d7089e-604b-4879-bc26-c081cbb1ff8c",
+    "ticker": "META",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "What would Meta's total revenue and advertising revenue have been in 2023 if foreign exchange rates had remained constant?",
+    "chunk_id": "5497ebf4-2832-4354-998d-77ae9647b5cc",
+    "ticker": "META",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "By how much did Meta's cost of revenue change in 2023 compared to the prior year, and what was the primary driver of that change?",
+    "chunk_id": "5497ebf4-2832-4354-998d-77ae9647b5cc",
+    "ticker": "META",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "How did currency fluctuations impact Meta's reported revenues for the full year 2023?",
+    "chunk_id": "5497ebf4-2832-4354-998d-77ae9647b5cc",
+    "ticker": "META",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "What is the estimated error margin that Meta expects for its worldwide Monthly Active People (MAP) metric?",
+    "chunk_id": "4131bf77-ffd4-42e6-bff3-de066d246e4b",
+    "ticker": "META",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "How does Meta handle the challenge of users having multiple accounts across different products when calculating unique user counts?",
+    "chunk_id": "4131bf77-ffd4-42e6-bff3-de066d246e4b",
+    "ticker": "META",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "What are the key limitations investors should be aware of when interpreting Meta's reported user engagement metrics?",
+    "chunk_id": "4131bf77-ffd4-42e6-bff3-de066d246e4b",
+    "ticker": "META",
+    "year": 2023,
+    "section": "MD&A"
+  },
+  {
+    "question": "What specific currency, besides the U.S. dollar, represents the primary foreign exchange risk for Meta's revenue and operating expenses?",
+    "chunk_id": "b6c0d595-877e-4a3a-89c9-1e9c52b9f7fe",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How does a strengthening U.S. dollar impact Meta's reported financial results?",
+    "chunk_id": "b6c0d595-877e-4a3a-89c9-1e9c52b9f7fe",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What types of market risks is Meta exposed to according to its 2022 annual report?",
+    "chunk_id": "b6c0d595-877e-4a3a-89c9-1e9c52b9f7fe",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What was the carrying value of Meta's investment in Jio Platforms Limited at the end of fiscal year 2023?",
+    "chunk_id": "f0cf4e3c-ff98-4ae3-a4b8-5ca4498412f3",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How did the carrying value of Meta's non-marketable equity securities change between December 31, 2022 and December 31, 2023?",
+    "chunk_id": "f0cf4e3c-ff98-4ae3-a4b8-5ca4498412f3",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What is the nature and approximate size of Meta's most significant non-marketable equity investment as reported in their 2023 annual filing?",
+    "chunk_id": "f0cf4e3c-ff98-4ae3-a4b8-5ca4498412f3",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What would be the impact on the market value of Meta's available-for-sale debt securities and cash equivalents if interest rates were to rise, as of December 31, 2022?",
+    "chunk_id": "79ace24c-c029-432f-bb83-9c476977a45f",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How does Meta's fixed-rate senior notes structure protect the company's financial statements from interest rate volatility?",
+    "chunk_id": "79ace24c-c029-432f-bb83-9c476977a45f",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "What is the total outstanding principal amount of Meta's fixed-rate senior notes, and how does market interest rate movement affect their valuation?",
+    "chunk_id": "79ace24c-c029-432f-bb83-9c476977a45f",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Market Risk"
+  },
+  {
+    "question": "How many shares of Class A common stock does Meta have reserved for future equity awards under its stock plan as of the end of 2023?",
+    "chunk_id": "758d9f8f-5dcc-4838-8663-0c1e7cc5a652",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What was the average fair value per share of RSUs awarded to Meta employees during fiscal year 2022?",
+    "chunk_id": "758d9f8f-5dcc-4838-8663-0c1e7cc5a652",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How has Meta structured its long-term employee compensation program, and what changes were made to its equity incentive plan capacity in recent years?",
+    "chunk_id": "758d9f8f-5dcc-4838-8663-0c1e7cc5a652",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How does Meta account for its non-marketable equity securities in privately-held companies?",
+    "chunk_id": "3ef96309-df4c-43d7-bbbd-631e843a6b1a",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "Where on Meta's balance sheet are restricted cash balances related to insurance policies and acquisition holdbacks classified?",
+    "chunk_id": "3ef96309-df4c-43d7-bbbd-631e843a6b1a",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What is Meta's overall approach to valuing and reporting investments in companies that do not have readily determinable fair values?",
+    "chunk_id": "3ef96309-df4c-43d7-bbbd-631e843a6b1a",
+    "ticker": "META",
+    "year": 2022,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "What criteria does Meta use to determine when to record a liability for legal matters?",
+    "chunk_id": "d96ffde6-5b76-4d8c-9e1c-e66c34c29d45",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "For legal cases where no loss estimate is provided, what does Meta indicate about the potential materiality of these matters?",
+    "chunk_id": "d96ffde6-5b76-4d8c-9e1c-e66c34c29d45",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Financial Statements"
+  },
+  {
+    "question": "How does Meta approach the evaluation and disclosure of its legal contingencies and potential financial exposures from ongoing litigation?",
+    "chunk_id": "d96ffde6-5b76-4d8c-9e1c-e66c34c29d45",
+    "ticker": "META",
+    "year": 2023,
+    "section": "Financial Statements"
+  }
+]
