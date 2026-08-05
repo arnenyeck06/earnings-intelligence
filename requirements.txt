@@ -7,3 +7,9 @@ onnxruntime==1.19.2
 tokenizers==0.20.3
 huggingface_hub==0.25.2
 python-dotenv==1.0.1
+numpy==1.26.4
+tqdm==4.66.5
+fastapi==0.139.0
+uvicorn[standard]==0.32.0
+streamlit==1.39.0
+prefect==3.8.1

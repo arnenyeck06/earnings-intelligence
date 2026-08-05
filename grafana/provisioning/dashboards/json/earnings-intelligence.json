@@ -1,0 +1,166 @@
+{
+  "id": null,
+  "uid": "earnings-intelligence",
+  "title": "Earnings Intelligence Platform",
+  "description": "Query volume, latency, token usage, and user feedback for the RAG pipeline.",
+  "schemaVersion": 39,
+  "version": 1,
+  "editable": true,
+  "timezone": "browser",
+  "time": { "from": "now-30d", "to": "now" },
+  "refresh": "1m",
+  "templating": {
+    "list": [
+      {
+        "name": "DS_POSTGRES",
+        "type": "datasource",
+        "label": "Datasource",
+        "query": "postgres",
+        "current": {},
+        "refresh": 1,
+        "hide": 0
+      }
+    ]
+  },
+  "panels": [
+    {
+      "id": 1,
+      "type": "stat",
+      "title": "Total Queries",
+      "gridPos": { "h": 5, "w": 6, "x": 0, "y": 0 },
+      "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" },
+      "targets": [
+        {
+          "refId": "A",
+          "format": "table",
+          "rawSql": "SELECT count(*) AS \"Total Queries\" FROM query_log WHERE $__timeFilter(created_at)",
+          "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "stat",
+      "title": "Satisfaction Rate",
+      "gridPos": { "h": 5, "w": 6, "x": 6, "y": 0 },
+      "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" },
+      "fieldConfig": { "defaults": { "unit": "percent", "max": 100, "min": 0 }, "overrides": [] },
+      "targets": [
+        {
+          "refId": "A",
+          "format": "table",
+          "rawSql": "SELECT round(100.0 * sum(CASE WHEN feedback = 1 THEN 1 ELSE 0 END) / NULLIF(count(*), 0), 1) AS \"Satisfaction %\" FROM query_feedback WHERE $__timeFilter(created_at)",
+          "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "stat",
+      "title": "Avg Retrieval Latency (ms)",
+      "gridPos": { "h": 5, "w": 6, "x": 12, "y": 0 },
+      "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" },
+      "fieldConfig": { "defaults": { "unit": "ms" }, "overrides": [] },
+      "targets": [
+        {
+          "refId": "A",
+          "format": "table",
+          "rawSql": "SELECT round(avg(retrieval_ms)) AS \"Avg Retrieval ms\" FROM query_log WHERE $__timeFilter(created_at)",
+          "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "stat",
+      "title": "Avg LLM Latency (ms)",
+      "gridPos": { "h": 5, "w": 6, "x": 18, "y": 0 },
+      "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" },
+      "fieldConfig": { "defaults": { "unit": "ms" }, "overrides": [] },
+      "targets": [
+        {
+          "refId": "A",
+          "format": "table",
+          "rawSql": "SELECT round(avg(llm_ms)) AS \"Avg LLM ms\" FROM query_log WHERE $__timeFilter(created_at)",
+          "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "timeseries",
+      "title": "Queries Over Time",
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 5 },
+      "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" },
+      "targets": [
+        {
+          "refId": "A",
+          "format": "time_series",
+          "rawSql": "SELECT date_trunc('day', created_at) AS \"time\", count(*) AS \"queries\" FROM query_log WHERE $__timeFilter(created_at) GROUP BY 1 ORDER BY 1",
+          "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "piechart",
+      "title": "Feedback: Thumbs Up vs Down",
+      "gridPos": { "h": 8, "w": 6, "x": 12, "y": 5 },
+      "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" },
+      "targets": [
+        {
+          "refId": "A",
+          "format": "table",
+          "rawSql": "SELECT CASE WHEN feedback = 1 THEN 'Thumbs Up' ELSE 'Thumbs Down' END AS metric, count(*) AS value FROM query_feedback WHERE $__timeFilter(created_at) GROUP BY 1",
+          "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "bargauge",
+      "title": "Top Tickers Queried",
+      "gridPos": { "h": 8, "w": 6, "x": 18, "y": 5 },
+      "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" },
+      "targets": [
+        {
+          "refId": "A",
+          "format": "table",
+          "rawSql": "SELECT ticker, count(*) AS queries FROM query_log WHERE ticker IS NOT NULL AND $__timeFilter(created_at) GROUP BY ticker ORDER BY queries DESC LIMIT 10",
+          "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "timeseries",
+      "title": "Latency Breakdown (Retrieval vs LLM)",
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 13 },
+      "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" },
+      "fieldConfig": { "defaults": { "unit": "ms" }, "overrides": [] },
+      "targets": [
+        {
+          "refId": "A",
+          "format": "time_series",
+          "rawSql": "SELECT date_trunc('hour', created_at) AS \"time\", avg(retrieval_ms) AS \"retrieval_ms\", avg(llm_ms) AS \"llm_ms\" FROM query_log WHERE $__timeFilter(created_at) GROUP BY 1 ORDER BY 1",
+          "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "timeseries",
+      "title": "Avg Tokens per Query (Input vs Output)",
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 13 },
+      "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" },
+      "targets": [
+        {
+          "refId": "A",
+          "format": "time_series",
+          "rawSql": "SELECT date_trunc('hour', created_at) AS \"time\", avg(input_tokens) AS \"input_tokens\", avg(output_tokens) AS \"output_tokens\" FROM query_log WHERE $__timeFilter(created_at) GROUP BY 1 ORDER BY 1",
+          "datasource": { "type": "postgres", "uid": "${DS_POSTGRES}" }
+        }
+      ]
+    }
+  ]
+}

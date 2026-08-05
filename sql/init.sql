@@ -28,3 +28,21 @@ CREATE TABLE IF NOT EXISTS query_feedback (
     feedback    INTEGER,
     created_at  TIMESTAMP DEFAULT NOW()
 );
+
+CREATE TABLE IF NOT EXISTS query_log (
+    id               SERIAL PRIMARY KEY,
+    query            TEXT NOT NULL,
+    rewritten_query  TEXT,
+    ticker           TEXT,
+    year             INTEGER,
+    section          TEXT,
+    num_results      INTEGER,
+    retrieval_ms     INTEGER,
+    llm_ms           INTEGER,
+    input_tokens     INTEGER,
+    output_tokens    INTEGER,
+    created_at       TIMESTAMP DEFAULT NOW()
+);
+
+CREATE INDEX IF NOT EXISTS query_log_created_at_idx ON query_log (created_at);
+CREATE INDEX IF NOT EXISTS query_feedback_created_at_idx ON query_feedback (created_at);
