@@ -45,7 +45,7 @@ LLM-as-judge scoring on relevance and faithfulness (1–5 scale) across candidat
 | Prompt | Relevance | Faithfulness |
 |---|---|---|
 | **Prompt A (selected)** | **4.4** | **4.933** |
-| Prompt B | _[fill in]_ | _[fill in]_ |
+| Prompt B |  |  |
 
 ## Interface
 
