@@ -170,4 +170,8 @@ python eval/evaluate_llm.py
 
 ## Author
 
-Arne Nyeck Nyeck — [GitHub](https://github.com/arnenyeck06) · [LinkedIn](https://linkedin.com/in/arne-nyecknyeck-539369ba)
+Arne Nyeck Nyeck — [GitHub](https://github.com/arnenyeck06) · [LinkedIn](https://www.linkedin.com/in/arne-nyeck-nyeck-539369ba/)
+
+## License
+
+[MIT](LICENSE)
