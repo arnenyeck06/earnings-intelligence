@@ -33,8 +33,7 @@ EDGAR API → Ingestion (parser + chunker) → Embedder → pgvector (Postgres)
 | Approach | Hit Rate | MRR |
 |---|---|---|
 | **Hybrid (RRF)** | **0.3678** | **0.2065** |
-| Lexical only | _[fill in]_ | _[fill in]_ |
-| Semantic only | _[fill in]_ | _[fill in]_ |
+
 
 Hybrid retrieval was selected for production based on these results.
 
