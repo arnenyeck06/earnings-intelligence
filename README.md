@@ -1,10 +1,10 @@
 # Earnings Intelligence Platform
 
-A hybrid RAG assistant for querying SEC EDGAR filings — 10-Ks, 10-Qs, and earnings call transcripts — in plain English. Built as the capstone project for [DataTalks.Club LLM Zoomcamp 2026](https://github.com/DataTalksClub/llm-zoomcamp).
+A hybrid RAG assistant for querying SEC EDGAR filings — 10-Ks, 10-Qs, and earnings call transcripts in plain English. Built as the capstone project for [DataTalks.Club LLM Zoomcamp 2026](https://github.com/DataTalksClub/llm-zoomcamp).
 
 ## Problem
 
-Public company filings contain the information investors and analysts need — margins, risk factors, forward guidance, segment performance — but it's buried across hundreds of pages per filing, repeated quarter over quarter, in dense financial language. Finding a specific fact (e.g. "what did NVIDIA say about data center revenue growth in Q3 2023?") means manually searching PDFs or EDGAR's own interface.
+Public company filings contain the information investors and analysts need margins, risk factors, forward guidance, segment performance, but it's buried across hundreds of pages per filing, repeated quarter over quarter, in dense financial language. Finding a specific fact (e.g. "what did NVIDIA say about data center revenue growth in Q3 2023?") means manually searching PDFs or EDGAR's own interface.
 
 This platform lets a user ask a natural-language question and get a grounded answer sourced directly from the underlying filings, using retrieval that combines keyword and semantic search rather than plain "control-F."
 
